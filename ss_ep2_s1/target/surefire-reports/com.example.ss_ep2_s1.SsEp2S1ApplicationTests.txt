@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.ss_ep2_s1.SsEp2S1ApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.492 s - in com.example.ss_ep2_s1.SsEp2S1ApplicationTests
